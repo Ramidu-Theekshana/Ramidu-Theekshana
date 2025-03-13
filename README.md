@@ -1,5 +1,5 @@
 👋 About Me
-🎓 Undergraduate Software Engineering Student
+🎓 Undergraduate Student
 
 💻 Skills:
       Frontend: JavaScript, HTML
