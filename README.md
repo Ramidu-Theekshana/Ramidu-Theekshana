@@ -7,7 +7,7 @@
       Programming: C, C++
 
 🌐 Interests:
-      Web Development
+      Web Development,
       Artificial Intelligence
       
 🚀 Always eager to learn new technologies and collaborate on exciting projects!
