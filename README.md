@@ -86,12 +86,12 @@ const ramidu = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ramidu-Theekshana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramidu-Theekshana&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramidu-Theekshana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -100,7 +100,7 @@ const ramidu = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramidu-Theekshana&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -109,45 +109,21 @@ const ramidu = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramidu-Theekshana/Ramidu-Theekshana/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramidu-Theekshana/Ramidu-Theekshana/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ramidu-Theekshana/Ramidu-Theekshana/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> 💡 **To enable the snake animation**, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   snake:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently building: **[your current project]**
+<!-- - 🔭 Currently building: **[your current project]** -->
 - 🌱 Learning: **Kubernetes · Cloud Architecture · System Design**
 - 👯 Open to collaborate on: **Fullstack projects & open source**
 - 💬 Ask me about: **MERN stack, Spring Boot, Docker, REST APIs**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **ramidutheekshanaofficial01@gmail.com**
 
 ---
 
@@ -155,11 +131,11 @@ const ramidu = {
 
 <div align="center">
 
-<a href="https://github.com/your-username/project-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Ramidu-Theekshana/VitaSense-Health_Care_System">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramidu-Theekshana&repo=VitaSense-Health_Care_System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/your-username/project-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Ramidu-Theekshana/Smart-Tea-Factory-Management-System">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramidu-Theekshana&repo=Smart-Tea-Factory-Management-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
