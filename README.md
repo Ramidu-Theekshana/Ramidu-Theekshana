@@ -12,22 +12,22 @@
 
 <!-- Social / Contact Badges -->
 <p>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://ramidu-theekshana.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ramidutheekshana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:ramidutheekshanaofficial01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Ramidu-Theekshana" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ramidu-Theekshana&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views" />
 
 </div>
 
